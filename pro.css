@@ -1,0 +1,23 @@
+
+body{
+  background-image: url("https://thumbs.gfycat.com/MagnificentJoyousEyra-size_restricted.gif");
+}
+
+
+
+.city{color:rgb(56, 19, 202)
+    
+
+}
+input[type=text] {
+    width: 20%;
+    border: 2px solid rgb(193, 18, 18);
+    border-radius: 4px;
+  }
+  input[type=text]:focus {
+    background-color: rgb(0, 142, 185);
+
+
+}
+
+  
